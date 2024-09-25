@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,java,c,cpp,discord,docker,git,github,grafana,linux,md,matlab,octave,raspberrypi,selenium,vercel,vscode,go&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,c,cpp,discord,docker,git,github,linux,raspberrypi,vscode,go&perline=4)](https://skillicons.dev)
